@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olemarkusroland
 - 👀 I’m interested in meditation, programming, fitness, nature and such.
-- 🌱 I’m currently working on [journalhjelp.no](journalhjelp.no).
+- 🌱 I’m currently working on [journalhjelp.no](https://journalhjelp.no/).
 - 📘 [My LinkedIn is here](https://www.linkedin.com/in/ole-markus-k-6a7713128/)
 <!-- - 📫 You can also reach me on ... -->
 
