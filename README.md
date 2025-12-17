@@ -4,4 +4,4 @@
 - 📘 [My LinkedIn is here](https://www.linkedin.com/in/ole-markus-k-6a7713128/)
 <!-- - 📫 You can also reach me on ... -->
 
-[[![trophy](https://profile-trophy-phi.vercel.app/?username=olemarkusroland&theme=nord&title=Repositories,Commits,PullRequest,MultipleLang,Issues,Experience)](https://github.com/ryo-ma/github-profile-trophy)](https://profile-trophy-phi.vercel.app/api?username=olemarkusroland&theme=nord&title=Repositories,Commits,PullRequest,MultipleLang,Issues,Experience)
+[![trophy](https://profile-trophy-phi.vercel.app/api?username=olemarkusroland&theme=nord&title=Repositories,Commits,PullRequest,MultipleLang,Issues,Experience)](https://github.com/ryo-ma/github-profile-trophy)
